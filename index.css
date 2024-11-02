@@ -1,15 +1,14 @@
 body {
     margin: 0;
     font-family: "Karla", sans-serif;
-    text-align: center;
 }
 
 .container {
     margin: auto;
     margin-top: 32px;
     padding: 100px 52px;
-    width: 70%;
-    height: 70%;
+    width: 30%;
+    height: 50%;
     background-color: #1F2937;
     border-radius: 12px;
 }
