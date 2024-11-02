@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-    margin: 0 auto;
+    margin: auto;
     margin-top: 32px;
     padding: 100px 52px;
     width: 30%;
@@ -60,6 +60,7 @@ button {
 .passwords-container {
     display: flex;
     gap: 32px;
+    
 }
 
 #password1, #password2 {
