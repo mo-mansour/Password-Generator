@@ -60,7 +60,6 @@ button {
 .passwords-container {
     display: flex;
     gap: 32px;
-    /* justify-content: center; */
 }
 
 #password1, #password2 {
